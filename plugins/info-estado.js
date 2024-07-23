@@ -26,7 +26,6 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` _*< INFO - ESTADO />*_
 
  [🤴🏻] *Prop.:* TEAM THE ALPHA
- [#️⃣] *WA:* wa.me/51992621701
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
