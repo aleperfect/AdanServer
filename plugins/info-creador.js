@@ -5,22 +5,22 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *Para mas informacion acerca del bot contactame*`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
+    'document': {url: `56940831045`},
     'mimetype': `application/${document}`,
-    'fileName': `Readz Aleizn`, 
+    'fileName': `TEAM THE ALPHA`, 
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY',
+        'mediaUrl': '56940831045',
         'mediaType': 2,
         'previewType': 'pdf',
-        'title': 'Readz Aleizn',
+        'title': 'TEAM THE ALPHA',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
+        'sourceUrl': '56940831045'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

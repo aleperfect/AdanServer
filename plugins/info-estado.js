@@ -22,10 +22,10 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'Readz Aleizn';
+  const wm = 'TEAM THE ALPHA';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* Readz Aleizn
+ [🤴🏻] *Prop.:* TEAM THE ALPHA
  [#️⃣] *WA:* wa.me/51992621701
 
  [💡] *Ping:* ${rtime}
@@ -56,7 +56,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `56940831045` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -65,13 +65,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "56940831045",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
-        body: "Readz Aleizn",
+        title: "TEAM THE ALPHA",
+        body: "TEAM THE ALPHA",
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "56940831045",
       },
     },
     caption: info,
